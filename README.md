@@ -1,4 +1,4 @@
- <img src="https://github.com/ViktoriaGubenok/ViktoriaGubenok/blob/main/assets/developer-tester.gif" alt="The Unlimited" width="450" heigth="200"/>
+ <img src="[def]" alt="The Unlimited" width="450" heigth="200"/>
 
  ### Привет! Меня зовут Виктория, и я начинающий тестировщик. Обучаюсь по урокам Артема Русова и Вадима Ксендзова.
 
@@ -25,3 +25,4 @@
 [def8]: https://img.shields.io/badge/-Charles-D3D3D3?style=for-the-badge&logo=Charles&logoColor=8cc4d7
 [def9]: https://img.shields.io/badge/-Redis-D3D3D3?style=for-the-badge&logo=Redis&logoColor=d00
 [def10]: https://img.shields.io/badge/-Jmeter-D3D3D3?style=for-the-badge&logo=Jmeter&logoColor=d00
+[def]: ttps://github.com/ViktoriaGubenok/ViktoriaGubenok/blob/main/assets/developer-tester.gi
