@@ -27,4 +27,4 @@
 [def9]: https://img.shields.io/badge/-Redis-D3D3D3?style=for-the-badge&logo=Redis&logoColor=d00
 [def10]: https://img.shields.io/badge/-Jmeter-D3D3D3?style=for-the-badge&logo=Jmeter&logoColor=d00
 [def11]: https://img.shields.io/badge/-Telegram-D3D3D3?style=for-the-badge&logo=telegram&logoColor=27A0D9
-[def12]: https://img.shields.io/badge/-VK-D3D3D3?style=for-the-badge&logo=VK&logoColor=5c9ce6
+[def12]: https://img.shields.io/badge/-VK-D3D3D3?style=for-the-badge&logo=VK&logoColor=447bba
