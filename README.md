@@ -11,4 +11,4 @@
 
 [def]: https://github.com/ViktoriaGubenok/ViktoriaGubenok/blob/main/assets/developer-tester.gif
 [def2]: https://img.shields.io/badge/-Postman-D3D3D3?style=for-the-badge&logo=Postman&logoColor=ff6c37
-[def3]: https://img.shields.io/badge/-Sql-D3D3D3?style=for-the-badge&logo=Sql&logoColor=04b
+[def3]: https://img.shields.io/badge/-Sql-D3D3D3?style=for-the-badge&logo=mysql&logoColor=04b
