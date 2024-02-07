@@ -16,7 +16,7 @@
  Follow Me
 
 
-[def]: https://github.com/ViktoriaGubenok/ViktoriaGubenok/blob/main/assets/developer-tester.gif
+[def]: https://github.com/ViktoriaGubenok/ViktoriaGubenok/blob/main/assets/developer-tester.gif width="180" heigth="50"
 [def2]: https://img.shields.io/badge/-Postman-D3D3D3?style=for-the-badge&logo=Postman&logoColor=ff6c37
 [def3]: https://img.shields.io/badge/-Sql-D3D3D3?style=for-the-badge&logo=mysql&logoColor=04b
 [def4]: https://img.shields.io/badge/-Fiddler-D3D3D3?style=for-the-badge&logo=fiddler&logoColor=00b341
