@@ -15,6 +15,7 @@
 
  ### Follow Me
  [![Telegram][def11]](https://t.me/Viktoria_0_0_0_0)
+ [![VK][def12]](https://vk.com/viktoriagubenok)
 
 [def2]: https://img.shields.io/badge/-Postman-D3D3D3?style=for-the-badge&logo=Postman&logoColor=ff6c37
 [def3]: https://img.shields.io/badge/-Sql-D3D3D3?style=for-the-badge&logo=mysql&logoColor=04b
@@ -26,3 +27,4 @@
 [def9]: https://img.shields.io/badge/-Redis-D3D3D3?style=for-the-badge&logo=Redis&logoColor=d00
 [def10]: https://img.shields.io/badge/-Jmeter-D3D3D3?style=for-the-badge&logo=Jmeter&logoColor=d00
 [def11]: https://img.shields.io/badge/-Telegram-D3D3D3?style=for-the-badge&logo=telegram&logoColor=27A0D9
+[def12]: https://img.shields.io/badge/-VK-D3D3D3?style=for-the-badge&logo=VK&logoColor=5c9ce6
