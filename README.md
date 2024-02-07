@@ -10,6 +10,8 @@
  ![DevTools][def6]
  ![AndroidStudio][def7]
  ![Charles][def8]
+ ![Redis][def9]
+ ![Jmeter][def10]
 
  Follow Me
 
@@ -21,4 +23,6 @@
 [def5]: https://img.shields.io/badge/-Jenkins-D3D3D3?style=for-the-badge&logo=Jenkins&logoColor=7626ff
 [def6]: https://img.shields.io/badge/-DevTools-D3D3D3?style=for-the-badge&logo=googlechrome&logoColor=87CEEB
 [def7]: https://img.shields.io/badge/-AndroidStudio-D3D3D3?style=for-the-badge&logo=AndroidStudio&logoColor=3ad07d
-[def8]: https://img.shields.io/badge/-CharlesProxy-D3D3D3?style=for-the-badge&logo=CharlesProxy&logoColor=8cc4d7
+[def8]: https://img.shields.io/badge/-Charles-D3D3D3?style=for-the-badge&logo=Charles&logoColor=8cc4d7
+[def9]: https://img.shields.io/badge/-Redis-D3D3D3?style=for-the-badge&logo=Redis&logoColor=d00
+[def10]: https://img.shields.io/badge/-Jmeter-D3D3D3?style=for-the-badge&logo=Jmeter&logoColor=d00
