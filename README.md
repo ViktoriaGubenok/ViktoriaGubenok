@@ -1,4 +1,4 @@
- ![Header][<img src="https://github.com/ViktoriaGubenok/ViktoriaGubenok/blob/main/assets/developer-tester.gif" width="450" heigth="200"/>]
+ [!Header][<img src="https://github.com/ViktoriaGubenok/ViktoriaGubenok/blob/main/assets/developer-tester.gif" width="450" heigth="200"/>]
 
  ### Привет! Меня зовут Виктория, и я начинающий тестировщик. Обучаюсь по урокам Артема Русова и Вадима Ксендзова.
 
