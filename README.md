@@ -14,7 +14,7 @@
  ![Jmeter][def10]
 
  ### Follow Me
- [!Telegram][def1](https://t.me/Viktoria_0_0_0_0)
+ [![Telegram][def11]](https://t.me/Viktoria_0_0_0_0)
 
 [def2]: https://img.shields.io/badge/-Postman-D3D3D3?style=for-the-badge&logo=Postman&logoColor=ff6c37
 [def3]: https://img.shields.io/badge/-Sql-D3D3D3?style=for-the-badge&logo=mysql&logoColor=04b
@@ -25,4 +25,4 @@
 [def8]: https://img.shields.io/badge/-Charles-D3D3D3?style=for-the-badge&logo=Charles&logoColor=8cc4d7
 [def9]: https://img.shields.io/badge/-Redis-D3D3D3?style=for-the-badge&logo=Redis&logoColor=d00
 [def10]: https://img.shields.io/badge/-Jmeter-D3D3D3?style=for-the-badge&logo=Jmeter&logoColor=d00
-[def1]: https://img.shields.io/badge/-Postman-D3D3D3?style=for-the-badge&logo=Postman&logoColor=27A0D9
+[def11]: https://img.shields.io/badge/-Telegram-D3D3D3?style=for-the-badge&logo=telegram&logoColor=27A0D9
